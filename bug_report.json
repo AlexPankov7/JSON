@@ -1,1 +1,16 @@
+{
+		"ID": "777",
+		"Summary": "A brief description of the problem that clearly indicates the cause and type of the erroneous situation",
+		"Project": "Web App",
+		"Version": "1.77.0",
+		"Priority": "High",
+		"Severity": "Critical",
+		"Author": "Aleksei Pankov",
+		"Steps to Reproduce": [
+					"1. Go to the web site https://www.my_little_site.fi"
+					"2. Push the button 'LogIn' "
+						],
+		"Result": "Push button 'LogIn' does not redirect to the login page.",
+		"Expected Result": "Push on the 'LogIn' button redirects to the login page."	
+	}
 
